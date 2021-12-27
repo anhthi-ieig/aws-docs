@@ -1,4 +1,4 @@
-# AWS Direct Connect
+## AWS Direct Connect
 
 - AWS Direct Connect is a cloud service that `establish a dedicated network connection from your premises to AWS` to deliver more consistent, lower-latency performance
 

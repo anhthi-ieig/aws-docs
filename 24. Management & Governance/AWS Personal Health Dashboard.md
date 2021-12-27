@@ -1,4 +1,4 @@
-# AWS Personal Health Dashboard
+## AWS Personal Health Dashboard
 
 - `Provides alerts and remediation guidance` for AWS events that `might affect your environment`
 

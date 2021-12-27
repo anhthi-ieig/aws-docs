@@ -1,8 +1,8 @@
-# Amazon Elastic Compute Cloud - EC2
+## Amazon Elastic Compute Cloud - EC2
 
 - Amazon EC2 is `a web service` that provides `resizable compute capacity in the cloud`. It is designed to make web-scale computing easier for developers.
 
-# Amazon EC2 Pricing
+## Amazon EC2 Pricing
 
 1. On-Demand Instances
 
@@ -38,6 +38,6 @@
 
 - `Can be purchased as a Reservation for up to 70% discount compared to On-Demand prices`
 
-# Note
+## Note
 
 - `1 minute minimum charge` for EC2 instances

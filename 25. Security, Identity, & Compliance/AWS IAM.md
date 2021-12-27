@@ -1,4 +1,4 @@
-# AWS Identity & Access Management - IAM
+## AWS Identity & Access Management - IAM
 
 - AWS Identity and Access Management (IAM) `enables you to manage access to AWS services and resources` securely
 

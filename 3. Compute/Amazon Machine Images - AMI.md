@@ -1,4 +1,4 @@
-# Amazon Machine Images - AMI
+## Amazon Machine Images - AMI
 
 - An Amazon Machine Image `provides the template required to launch an EC2 instance`. You must specify an AMI when you launch an EC2 instance
 

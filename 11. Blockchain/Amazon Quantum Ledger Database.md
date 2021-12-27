@@ -1,4 +1,4 @@
-# Amazon QLDB - Quantum Ledger Database
+## Amazon QLDB - Quantum Ledger Database
 
 - `Ledger database` that provides a transparent, immutable, and cryptographically verifiable transaction log owned by a central trusted authority
 

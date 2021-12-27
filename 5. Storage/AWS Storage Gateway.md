@@ -1,4 +1,4 @@
-# AWS Storage Gateway
+## AWS Storage Gateway
 
 - AWS Storage Gateway `is a hybrid cloud storage service` that gives you `on-premises access to virtually unlimited cloud storage`
 

@@ -1,4 +1,4 @@
-# Amazon Quicksight
+## Amazon Quicksight
 
 - Makes it easy to deliver insights to everyone in your organization
 

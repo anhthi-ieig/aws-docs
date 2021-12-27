@@ -1,4 +1,4 @@
-# AWS Quick Starts
+## AWS Quick Starts
 
 - Quick Starts are `automated reference deployments` built by AWS solutions architects and AWS Partners
 

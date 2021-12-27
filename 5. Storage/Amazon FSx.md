@@ -1,3 +1,3 @@
-# Amazon FSx for Lustre
+## Amazon FSx for Lustre
 
-# Amazon FSx for Windows File Server
+## Amazon FSx for Windows File Server

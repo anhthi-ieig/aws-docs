@@ -1,4 +1,4 @@
-# AWS Lambda
+## AWS Lambda
 
 - AWS Lambda lets you `run code on the cloud without provisioning or managing servers`
 

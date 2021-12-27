@@ -1,1 +1,1 @@
-# AWS Auto Scaling
+## AWS Auto Scaling
