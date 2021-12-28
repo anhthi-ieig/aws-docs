@@ -1,4 +1,4 @@
-## Amazon SQS - Simple Queue
+## Amazon Simple Queue Service - SQS
 
 - Message queuing service that enables you to decouple and scale microservices, distributed systems, and serverless applications.
 

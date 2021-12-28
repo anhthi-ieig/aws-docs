@@ -1,5 +1,7 @@
 ## Amazon Simple Storage Service - S3
 
+- Amazon S3 is `object storage service` built to `store and retrieve any type and amount of data` from anywhere
+
 ## S3 Storage Classes
 
 1. S3 Standard
