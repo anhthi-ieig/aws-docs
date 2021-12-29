@@ -1,4 +1,4 @@
-## AWS Cost and Usage Report
+## AWS Cost and Usage Report - Access comprehensive cost and usage information
 
 - The AWS Cost & Usage Report `contains the most comprehensive set of AWS cost and usage data available`, including
 

@@ -1,60 +1,88 @@
-## Amazon Simple Storage Service - S3
+## Amazon Simple Storage Service (S3) - Scalable storage in the cloud
 
 - Amazon S3 is `object storage service` built to `store and retrieve any type and amount of data` from anywhere
+
+- You can `set security at the bucket level or individual object level` using `access control lists (ACLs), bucket policies, or access point policies`
+
+- You can `enable versioning to create multiple versions of your file` in order to protect against accidental deletion and to use a previous version
+
+- `S3 Lifecycle allows your data will automatically transfer to a different storage class` without any changes to your application for cost saving
+
+- You can `use S3 access logs to track the access to your buckets and objects`
+
+- S3 is `a regional service, but bucket names must be globally unique`
 
 ## S3 Storage Classes
 
 1. S3 Standard
 
-- S3 Standard offers high durability, availability, and performance `object storage for frequently accessed data`
+- `General-purpose storage`
+- Data stored across multiple AZs
+- `Low latency and hight throughput`
+- Recommend for
 
-- S3 Standard `delivers low latency and high throughput`, S3 Standard is appropriate for a wide variety of use cases, including
+  - `Frequently accessed data`
 
-  - Cloud applications
-  - Dynamic websites
-  - Content distribution
-  - Mobile and gaming applications
-  - Big data analytics
+2. S3 Intelligent Tiering
 
-- First byte latency: milliseconds
+- `Automatically moves your data to the most cost-effective storage class`
+- `Automatic cost savings`
+- No retrieval fees
+- Data stored across multiple Availability Zones
+- Recommend for
 
-2. S3 Standard Infrequent Access - Standard IA
+  - `Data with unknown or changing access pattern`
 
-3. S3 One-Zone Infrequent Access - S3 One-Zone IA
+3. S3 Standard Infrequent Access - Standard IA
 
-- S3 One Zone-IA is for data that is `accessed infrequently but requires rapid access when needed`
-- S3 One Zone-IA `stores data in a single Availability Zone` and `costs 20% less than S3 Standard-IA` while `other S3 Storage Classes store data in at lest 3 Availability Zone`
+- `Data accessed less frequently but requires rapid access`
+- Data stored across multiple Availability Zones
+- Cheaper than S3 Standard
+- Recommend for
 
-4. S3 Intelligent Tiering
+  - `Long-lived data`
+  - `Infrequently accessed`
+  - `Millisecond access when needed`
 
-- The S3 Intelligent-Tiering storage class is `designed to optimize costs by automatically moving data` to the most cost-effective access tier, `without performance impact or operational overhead`
+4. S3 One-Zone Infrequent Access - S3 One-Zone IA
 
-- It `works by storing objects in two access tiers`
+- Like S3 Standard-IA but `data stored in a single Availability Zone`
+- Costs 20% less than S3 Standard-IA
+- `Data stored in this storage class can be lost`
+- Recommend for
 
-  - One tier that is optimized for frequent access
-  - Another lower-cost tier that is optimized for infrequent access
-
-- Data at in S3 Glacier is `automatically server-side encrypted` using AES-256
-
-- First byte latency: milliseconds
+  - `Re-creatable data`
+  - `Infrequently accessed with millisecond access`
+  - `Availability and durability not essential`
 
 5. S3 Glacier
 
-- Amazon S3 Glacier is a `secure, durable, and low-cost storage class` for `data archiving and long-term backup`
+- `Long-term data storage and archival for lower costs`
+- `Data retrieval takes longer`
+- 3 retrieval options: 1-5 minutes, 3-5 hours, or 5-12 hours
+- Data stored across multiple Availability Zones
+- Recommend for
 
-- First byte latency: a flew hours
+  - `Long-term backups`
+  - Cheaper storage options
 
 6. S3 Glacier Deep Archive
 
-- S3 Glacier Deep Archive is the `secure, durable, and lowest-cost storage class` and `supports long-term retention and digital preservation` for data that
+- `Like S3 Glacier but longer access times`
+- 2 retrieval options: 12 hours or 48 hours
+- `Cheapest of all S3 options`
+- Data stored across multiple Availability Zones
+- Recommend for
 
-  - May be accessed once or twice in a year
-  - Retain data sets for 7-10 years or longer
-  - For backup and disaster recovery
+  - `Long-term data archival accessed once or twice a year`
+  - Retaining data for regulatory compliance requirements
 
-- First byte latency: 12 to 48 hours
+7. S3 Outposts
 
-- Usually used for
-  - Financial Services
-  - Healthcare
-  - Public Sectors
+- `Provides object storage on-premises`
+- A single storage class
+- `Store data across multiple devices and servers`
+- Recommend for
+
+  - `Data that needs to be kept local`
+  - Demanding application performance needs

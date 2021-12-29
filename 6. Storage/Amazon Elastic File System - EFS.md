@@ -1,4 +1,4 @@
-## Amazon Elastic File System - EFS
+## Amazon Elastic File System (EFS) - Fully managed file system for EC2
 
 - Amazon EFS is `a simple, serverless, set-and-forget, elastic file system` that makes it `easy to set up, scale, and cost-optimize file storage` in the AWS Cloud
 

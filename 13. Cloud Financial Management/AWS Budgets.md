@@ -1,4 +1,4 @@
-## AWS Budgets
+## AWS Budgets - Set custom cost and usage budgets
 
 - AWS Budgets gives the ability to `set custom budgets that alert` you when your `costs or usage exceed (or are forecasted to exceed)` your budgeted amount
 

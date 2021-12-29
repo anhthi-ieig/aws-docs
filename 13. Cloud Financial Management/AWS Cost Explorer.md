@@ -1,4 +1,4 @@
-## AWS Cost Explorer
+## AWS Cost Explorer - Analyze and forecast your AWS cost and usage
 
 - AWS Cost Explorer `has an interface that lets you explore, visualize, understand, and manage your AWS costs and usage` over time
 

@@ -1,3 +1,1 @@
-## Amazon FSx for Lustre
-
-## Amazon FSx for Windows File Server
+## Amazon FSx - Launch, run, and scale feature-rich and highly-performant file systems with just a few clicks

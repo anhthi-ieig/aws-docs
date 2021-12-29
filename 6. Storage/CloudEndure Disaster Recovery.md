@@ -1,1 +1,1 @@
-## CloudEndure Disaster Recovery
+## CloudEndure Disaster Recovery - Highly automated disaster recovery
