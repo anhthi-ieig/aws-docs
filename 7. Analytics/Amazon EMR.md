@@ -1,4 +1,4 @@
-## Amazon EMR
+## Amazon EMR - Hosted Hadoop framework
 
 - Provides a managed `Hadoop` framework that makes it easy, fast, and cost-effective to process vast amounts of data across EC2 instances
 - Securely and reliably handles a broad set of big data use cases

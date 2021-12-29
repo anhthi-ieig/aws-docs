@@ -1,4 +1,4 @@
-## Amazon Redshift
+## Amazon Redshift - Fast, simple, cost-effective data warehousing
 
 - Used to analyze all your data across your data warehouse and data lake
 

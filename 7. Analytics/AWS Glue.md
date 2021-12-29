@@ -1,4 +1,4 @@
-## AWS Glue
+## AWS Glue - Simple, scalable, and serverless data integration
 
 - AWS Glue is `a serverless data integration service` that makes it `easy to discover, prepare, and combine data` `for analytics, machine learning, and application development`
 
