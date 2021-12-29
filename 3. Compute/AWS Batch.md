@@ -1,4 +1,4 @@
-## AWS Batch
+## AWS Batch - Run batch jobs at any scale
 
 - AWS Batch is a set of batch management capabilities that `allow to run hundreds of thousands of batch computing jobs` on AWS
 

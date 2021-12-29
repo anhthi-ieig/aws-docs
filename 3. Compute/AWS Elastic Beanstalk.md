@@ -1,4 +1,4 @@
-## AWS Elastic Beanstalk
+## AWS Elastic Beanstalk - Run and manage web apps
 
 - Elastic Beanstalk `is a Platform as a Service (PaaS)` which allows you to deploy and scale web applications and services with
 

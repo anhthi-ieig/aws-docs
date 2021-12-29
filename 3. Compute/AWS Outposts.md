@@ -1,4 +1,4 @@
-## AWS Outposts
+## AWS Outposts - Run AWS infrastructure on-premises
 
 - AWS Outposts is a family of fully managed solutions `delivering AWS infrastructure and services` to `virtually any on-premises or edge location` for a truly consistent hybrid experience
 
