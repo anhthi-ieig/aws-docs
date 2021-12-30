@@ -1,3 +1,3 @@
-## Amazon Polly
+## Amazon Polly - Turn text into life-like speech
 
-- Amazon Polly is an AWS service that `uses advanced deep learning technologies` to `turns text into lifelike speech`
+- Amazon Polly is an AWS service that `uses advanced deep learning technologies` to `turns text into speech`

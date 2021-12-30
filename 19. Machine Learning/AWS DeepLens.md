@@ -1,1 +1,1 @@
-## AWS DeepLens
+## AWS DeepLens - Deep learning enabled video camera
