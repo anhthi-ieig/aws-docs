@@ -1,4 +1,4 @@
-## Amazon Aurora
+## Amazon Aurora - High performance managed relational database
 
 - Amazon Aurora is `a fully managed relational database engine` that's `compatible with MySQL and PostgreSQL`
 

@@ -3,6 +3,7 @@
 - AWS Glue is `a serverless data integration service` that makes it `easy to discover, prepare, and combine data` `for analytics, machine learning, and application development`
 
 - Data integration is the process of preparing and combining data for analytics, machine learning, and application development. It involves multiple tasks, such as
+
   - Discovering and extracting data from various sources
   - Enriching, cleaning, normalizing, and combining data
   - Loading and organizing data in databases, data warehouses, and data lakes

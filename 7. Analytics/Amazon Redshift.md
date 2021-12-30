@@ -1,8 +1,5 @@
 ## Amazon Redshift - Fast, simple, cost-effective data warehousing
 
-- Used to analyze all your data across your data warehouse and data lake
+- Amazon Redshift is a `fully managed, scalable cloud data warehouse` that accelerates your time to insights with fast, easy, and secure analytics at scale
 
-- Delivers 10x faster performance than other data warehouses by using
-  - Machine learning
-  - Massively parallel query execution
-  - Columnar storage on high-performance disk
+- Amazon Redshift Serverless makes it easy for you to `run petabyte-scale analytics in seconds to get rapid insights` `without having to configure and manage your data warehouse clusters`
