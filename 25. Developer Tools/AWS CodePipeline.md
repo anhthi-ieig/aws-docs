@@ -1,8 +1,8 @@
-## AWS CodePipeline
+## AWS CodePipeline - Release software using continuous delivery
 
-- AWS CodePipeline is `a continuous delivery service` that enables you `to model, visualize, and automate the steps required to release` your software
+- AWS CodePipeline is `a continuous delivery(CD) service` that enables you `to model, visualize, and automate the steps required to release` your software
 
-- AWS CodePipeline take care of builds, tests, and deploys your application `according to the defined workflow every time there is a code change`
+- AWS CodePipeline `take care of builds, tests, and deploys your application` `according to the defined workflow every time there is a code change`
 
 ## Note
 
