@@ -1,7 +1,14 @@
 ## AWS Storage Gateway - Hybrid storage integration
 
-- AWS Storage Gateway `is a hybrid cloud storage service` that gives you `on-premises access to virtually unlimited cloud storage`
+- AWS Storage Gateway `is a hybrid cloud storage service` that `connect on-premises to cloud storage`
 
-- Storage Gateway `cannot be used for data archival`
+- AWS Storage Gateway `cannot be used for data archival`
 
 - All `data transferred between the gateway and AWS storage is encrypted` using SSL
+
+- Recommend for
+
+  - Move backups and archives to the cloud
+  - Reduce on-premises storage with cloud-backed file shares
+  - Provide on-premises applications low latency access to data stored in AWS
+  - Data lake access for pre and post processing workflows

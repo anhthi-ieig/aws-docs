@@ -10,7 +10,14 @@
 
 - You can `use S3 access logs to track the access to your buckets and objects`
 
-- S3 is `a regional service, but bucket names must be globally unique`
+- S3 `is a regional service`, but `bucket names must be globally unique`
+
+- S3 can be used for
+
+  - Static website
+  - Data archive
+  - Analytics systems
+  - Web & Mobile application
 
 ## S3 Storage Classes
 
@@ -86,3 +93,7 @@
 
   - `Data that needs to be kept local`
   - Demanding application performance needs
+
+## Amazon S3 Transfer Acceleration
+
+- Amazon S3 Transfer Acceleration can speed up content transfers to and from Amazon S3 by as much as 50-500% for long-distance transfer of larger objects

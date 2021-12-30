@@ -1,4 +1,4 @@
-## Elastic Loading Balancing - ELB
+## Elastic Loading Balancing (ELB) - Distribute incoming traffic across multiple targets
 
 - Elastic Load Balancing `automatically distributes incoming application traffic` across multiple targets such as EC2 instances, containers, or IP addresses `in one or more Availability Zones`
 
