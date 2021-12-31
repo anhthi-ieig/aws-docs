@@ -1,4 +1,4 @@
-## AWS Organizations
+## AWS Organizations - Central governance and management across AWS accounts
 
 - AWS Organizations helps you `centrally govern your environment` such as
 

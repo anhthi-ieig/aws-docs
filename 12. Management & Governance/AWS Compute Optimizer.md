@@ -1,4 +1,4 @@
-## AWS Compute Optimizer
+## AWS Compute Optimizer - Identify optimal AWS Compute resources
 
 - AWS Compute Optimizer `recommends optimal AWS resources for your workloads` `to reduce costs and improve performance` `by using machine learning to analyze historical utilization metrics`
 

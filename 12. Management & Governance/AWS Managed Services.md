@@ -1,1 +1,1 @@
-## AWS Managed Services
+## AWS Managed Services - Infrastructure operations management for AWS

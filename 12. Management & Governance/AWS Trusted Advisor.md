@@ -1,4 +1,4 @@
-## AWS Trusted Advisor
+## AWS Trusted Advisor - Optimize performance and security
 
 - AWS Trusted Advisor is an online tool that `provides you real-time guidance` to `help you provision your resources following AWS best practices` on
 

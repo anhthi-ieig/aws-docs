@@ -1,4 +1,4 @@
-## Amazon CloudWatch
+## Amazon CloudWatch - Monitor resources and applications
 
 - Amazon CloudWatch is `a monitoring service for AWS cloud resources and the applications` you run on AWS
 

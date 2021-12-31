@@ -1,4 +1,4 @@
-## AWS CloudTrail
+## AWS CloudTrail - Track user activity and API usage
 
 - AWS CloudTrail `enables auditing, security monitoring, and operational troubleshooting` `by tracking user activity and API usage`
 

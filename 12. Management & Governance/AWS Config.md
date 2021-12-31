@@ -1,4 +1,4 @@
-## AWS Config
+## AWS Config - Track resources inventory and changes
 
 - AWS Config is a service that `enables you to assess, audit, and evaluate` `the configurations of your AWS resources`
 

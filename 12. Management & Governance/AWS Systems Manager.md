@@ -1,4 +1,4 @@
-## AWS Systems Manager
+## AWS Systems Manager - Gain operational insights and take action
 
 - AWS Systems Manager allows you to `centralize operational data from multiple AWS services` and `automate tasks across your AWS resources`
 
