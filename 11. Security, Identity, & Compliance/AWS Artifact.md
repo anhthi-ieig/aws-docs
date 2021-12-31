@@ -1,4 +1,4 @@
-## AWS Artifact
+## AWS Artifact - On-demand access to AWS’ compliance reports
 
 - AWS Artifact is `a self-service audit artifact retrieval portal` that `provides our customers with on-demand access to AWS compliance documentation and AWS agreements`
 

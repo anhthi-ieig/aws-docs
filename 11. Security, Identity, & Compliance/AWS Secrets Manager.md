@@ -1,4 +1,4 @@
-## AWS Secrets Manager
+## AWS Secrets Manager - Rotate, manage, and retrieve secrets
 
 - AWS Secrets Manager is a `secrets management service` that helps you `protect access to your applications, services, and IT resources`
 

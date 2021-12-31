@@ -30,7 +30,13 @@
 
 - `Reserved instances cannot be interrupted`
 
-3. Spot Instance
+3. Scheduled Instance
+
+- With Scheduled Reserved Instances, you can `reserve capacity that is scheduled to recur daily, weekly, or monthly, with a specified start time and duration, for a one-year term`
+
+- After you complete your purchase, the instances are `available to launch during the time windows that you specified`
+
+4. Spot Instance
 
 - Spot Instances let you `take advantage of unused EC2 capacity` in the AWS cloud
 
@@ -46,7 +52,13 @@
 
 - `Can be purchased as a Reservation for up to 70% discount compared to On-Demand prices`
 
-5. Saving Plans
+5. Dedicated Instances
+
+- Dedicated Instances run in a VPC on hardware that's dedicated to a single customer
+
+- Dedicated Instances that `belong to different AWS accounts are physically isolated at a hardware level`. However, Dedicated Instances might `share hardware with other instances from the same AWS account that are not Dedicated Instances`
+
+6. Saving Plans
 
 - Savings Plans are a flexible pricing model that offer low prices, `in exchange for a commitment to a consistent amount of usage` (measured in $/hour) for a 1 or 3 year term
 

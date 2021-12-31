@@ -1,4 +1,4 @@
-## Amazon Macie
+## Amazon Macie - Discover and protect your sensitive data at scale
 
 - Amazon Macie is `a fully managed data security and data privacy service` that `uses Machine Learning and Pattern Matching to discover and protect your sensitive data` in AWS
 

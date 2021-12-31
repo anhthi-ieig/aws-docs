@@ -1,5 +1,5 @@
-## Amazon Inspector
+## Amazon Inspector - Automated and continual vulnerability management for Amazon EC2 and Amazon ECR
 
-- Amazon Inspector is an `automated security assessment service` that helps `improve the security and compliance of applications` deployed on your Amazon EC2 instances
+- Amazon Inspector is an `automated security assessment service` that helps `improve the security and compliance` of `applications deployed on your Amazon EC2 instances`
 
 - Amazon Inspector `automatically assesses applications for exposure, vulnerabilities, unintended network, and deviations` from best practices

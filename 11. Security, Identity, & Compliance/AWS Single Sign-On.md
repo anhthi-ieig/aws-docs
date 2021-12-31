@@ -1,1 +1,0 @@
-## AWS Single Sign-On

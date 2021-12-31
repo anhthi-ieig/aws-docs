@@ -1,4 +1,4 @@
-## AWS CloudHSM
+## AWS CloudHSM - Hardware-based key storage for regulatory compliance
 
 - AWS CloudHSM is `a cloud-based hardware security module (HSM)` that enables you to easily `generate and use your own encryption keys on the AWS Cloud`
 

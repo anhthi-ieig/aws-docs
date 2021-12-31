@@ -1,3 +1,5 @@
-## AWS Key Management Service
+## AWS Key Management Service (KMS) - Managed creation and control of encryption keys
 
-- AWS KMS makes it easy for you to `create and manage cryptographic keys` and `control their use across a wide range of AWS services` and in your applications
+- AWS KMS is `a managed service` that enables you to easily `create and control the keys used for cryptographic operations`
+
+- The service `provides a highly available key generation, storage, management, and auditing solution` for you to encrypt or digitally sign data within your own applications or control the encryption of data across AWS services.

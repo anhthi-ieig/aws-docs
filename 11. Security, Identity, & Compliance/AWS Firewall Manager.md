@@ -1,1 +1,1 @@
-## AWS Firewall Manager
+## AWS Firewall Manager - Central management of firewall rules
