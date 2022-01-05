@@ -4,7 +4,7 @@
 
 # Elasticity
 
-- With elasticity, you don't have to plan ahead of time how much capacity you need. You can provision only what you need, and then grow and shrink based on demand
+- With elasticity, you don't have to plan ahead of time how much capacity you need. You can `provision only what you need`, and then `grow and shrink based on demand`
 
 # Agility
 

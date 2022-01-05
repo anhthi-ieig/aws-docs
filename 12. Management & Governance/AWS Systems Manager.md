@@ -9,6 +9,7 @@
   - Production versus development environments
 
 - You can select a resource group, view its data or take action on each resource group
+
   - API activity
   - Resource configuration changes
   - Related notifications

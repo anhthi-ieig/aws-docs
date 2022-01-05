@@ -1,5 +1,10 @@
 ## Amazon Simple Queue Service (SQS) - Managed message queues
 
-- Amazon Simple Queue Service is `a fully managed message queuing service` that enables you to `decouple and scale microservices, distributed systems, and serverless applications`
+- Amazon SQS is `a fully managed message queuing service` that enables you to `decouple and scale microservices, distributed systems, and serverless applications`
 
-- Using SQS, you can `send, store, and receive messages between software components` at any volume, without losing messages or requiring other services to be available
+- Using Amazon SQS, you can `send, store, and receive messages between software components` at any volume, without losing messages or requiring other services to be available
+
+- SQS offers two types of message queues
+
+  - Standard queues: Offer `maximum throughput, best-effort ordering, and at-least-once delivery`
+  - SQS FIFO: Guarantee that `messages are processed exactly once, in the exact order`

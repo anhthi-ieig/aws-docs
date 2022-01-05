@@ -23,28 +23,28 @@
 
 1. S3 Standard
 
-- `General-purpose storage`
-- Data stored across multiple AZs
-- `Low latency and hight throughput`
+- `Durability of 99.999999999%` of objects `across multiple AZs`
+- `Low latency and high throughput performance`
+- `Supports SSL for data in transit` and `encryption of data at rest`
 - Recommend for
 
-  - `Frequently accessed data`
+  - General-purpose storage
+  - Frequently accessed data
 
 2. S3 Intelligent Tiering
 
-- `Automatically moves your data to the most cost-effective storage class`
-- `Automatic cost savings`
-- No retrieval fees
-- Data stored across multiple Availability Zones
+- `Reduces your storage costs` by `automatically moving data to the most cost-effective access tier` based on access frequency
+- `Low latency and high throughput performance`
 - Recommend for
 
   - `Data with unknown or changing access pattern`
 
 3. S3 Standard Infrequent Access - Standard IA
 
-- `Data accessed less frequently but requires rapid access`
-- Data stored across multiple Availability Zones
-- Cheaper than S3 Standard
+- For `data that is accessed less frequently`, `but requires rapid access when needed`
+- `Durability of 99.999999999%` of objects `across multiple AZs`
+- Same low latency and high throughput performance of S3 Standard `but cheaper`
+- `Supports SSL for data in transit` and `encryption of data at rest`
 - Recommend for
 
   - `Long-lived data`
@@ -53,16 +53,18 @@
 
 4. S3 One-Zone Infrequent Access - S3 One-Zone IA
 
-- Like S3 Standard-IA but `data stored in a single Availability Zone`
-- Costs 20% less than S3 Standard-IA
+- For `data that is accessed less frequently`, `but requires rapid access when needed`
+- `Durability of 99.999999999%` of objects `across multiple AZs`
+- `Data is stored in a single AZ` and `costs 20% less than S3 Standard-IA`
 - `Data stored in this storage class can be lost`
+- `Supports SSL for data in transit` and `encryption of data at rest`
 - Recommend for
 
   - `Re-creatable data`
   - `Infrequently accessed with millisecond access`
   - `Availability and durability not essential`
 
-5. S3 Glacier
+5. Amazon S3 Glacier Flexible Retrieval (Formerly S3 Glacier)
 
 - `Long-term data storage and archival for lower costs`
 - `Data retrieval takes longer`
@@ -75,14 +77,14 @@
 
 6. S3 Glacier Deep Archive
 
-- `Like S3 Glacier but longer access times`
-- 2 retrieval options: 12 hours or 48 hours
-- `Cheapest of all S3 options`
+- Is the `Lowest-cost storage class`
+- Designed for `durability of 99.999999999%`
+- `Retrieval time within 12 hours`
 - Data stored across multiple Availability Zones
 - Recommend for
 
-  - `Long-term data archival accessed once or twice a year`
-  - Retaining data for regulatory compliance requirements
+  - Data that may be `accessed once or twice in a year`
+  - Data that will be `retained for 7-10 years`
 
 7. S3 Outposts
 
@@ -96,4 +98,4 @@
 
 ## Amazon S3 Transfer Acceleration
 
-- Amazon S3 Transfer Acceleration can speed up content transfers to and from Amazon S3 by as much as 50-500% for long-distance transfer of larger objects
+- Amazon S3 Transfer Acceleration `leverages AWS Edge Locations` to `enables fast, easy, and secure transfers of files` over long distances `between your client and your Amazon S3 bucket`

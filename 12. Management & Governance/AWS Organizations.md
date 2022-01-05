@@ -11,3 +11,9 @@
 - We should `enable CloudTrail to monitor activity on all accounts` for governance, compliance, risk, and auditing purposes.
 
 - We should `use tags to categorize AWS resources for billing purposes`
+
+## Service Control Policies
+
+- Service Control Policies are `a type of organization policy` that you can use to manage permissions in your organization
+
+- Service Control Policies `offer central control over the maximum available permissions for all accounts` in your organization.

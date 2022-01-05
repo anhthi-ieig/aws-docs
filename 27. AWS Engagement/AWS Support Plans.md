@@ -2,16 +2,24 @@
 
 1. Basic
 
-- Basic Support is free for all AWS accounts
+- Basic Support is free for all AWS accounts, includes
 
 2. Developer
 
-- Developer Support start with 29$/month and is recommended for development and testing
+- Developer Support start with 29$/month and is `recommended for development and testing`
 
 3. Business
 
-- Business Support start with 100$/month and is recommended for production workloads
+- Business Support start with 100$/month and is `recommended for production workloads`
 
 4. Enterprise
 
-- Business Support start with 15000$/month and is recommended for business or mission-critical production workloads
+- Business Support start with 15000$/month and is `recommended for business or mission-critical production workloads`
+
+## Support Cast Types
+
+1. Account and Billing
+
+2. Service Limit Increases
+
+3. Technical Supports

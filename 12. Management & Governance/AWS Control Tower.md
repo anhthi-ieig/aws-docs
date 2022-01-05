@@ -1,10 +1,8 @@
 ## AWS Control Tower - Set up and govern a secure, compliant multi-account environment
 
-- AWS Control Tower offers the easiest way to `set up and govern a secure, multi-account AWS environment` with a dashboard
+- AWS Control Tower is a service that `enables you to enforce and manage governance rules for security, operations, and compliance` at scale `across all your organizations and accounts` in the AWS Cloud
 
-- It `establishes a landing zone` that is `based on best-practices blueprints, and it enables governance using guardrails` you can choose from a pre-packaged list
-
-- If you want to `create or manage your multi-account AWS environment with best practices`, use AWS Control Tower. It `offers prescriptive guidance to govern your AWS environment at scale`
+- AWS Control Tower `orchestration extends the capabilities of AWS Organizations`. Provides a dashboard to manage accounts
 
 ## Landing Zone
 

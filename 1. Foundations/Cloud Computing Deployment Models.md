@@ -10,4 +10,4 @@
 
 3. On-Premises
 
-- The deployment of resources on-premises, using virtualization and resource management tools, is sometimes called the "private cloud"
+- `The deployment of resources on-premises`, using virtualization and resource management tools, is sometimes called the "private cloud"

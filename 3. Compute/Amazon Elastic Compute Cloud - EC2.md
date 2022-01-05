@@ -24,9 +24,13 @@
 
 2. Reserved Instances
 
-- Reserved Instances provide you with `significant savings (up to 75%) costs compared to On-Demand prices`. You can pay All Upfront(max discount), Partial Upfront or No Upfront
+- Reserved Instances provide you with `significant savings (up to 75%) costs compared to On-Demand prices`. You can pay
 
-- You can purchase a Reserved Instance `for a one-year or three-year commitment`
+  - All Upfront(max discount)
+  - Partial Upfront
+  - No Upfront
+
+- You can purchase a Reserved Instance `for a one-year or three-year commitment`. `Pay regardless of usage`
 
 - `Reserved instances cannot be interrupted`
 
@@ -60,7 +64,7 @@
 
 6. Saving Plans
 
-- Savings Plans are a flexible pricing model that offer low prices, `in exchange for a commitment to a consistent amount of usage` (measured in $/hour) for a 1 or 3 year term
+- Savings Plans are a flexible pricing model that offer low prices, `in exchange for a commitment to a consistent amount of usage (measured in $/hour)` for a 1 or 3 year term
 
 - Savings Plans allow the `flexibility to change compute services, instance types, operating systems or Region`
 
