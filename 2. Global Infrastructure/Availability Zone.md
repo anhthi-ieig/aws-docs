@@ -8,4 +8,6 @@
 
 - If an `application is partitioned across Availability Zones`, companies are better `isolated and protected from issues` such as power outages, lightning strikes, tornadoes, earthquakes, and more
 
-- All traffic between Availability Zones is encrypted
+- `All traffic between Availability Zones is encrypted`
+
+- `A Availability Zone associate with a Subnet in VPC`

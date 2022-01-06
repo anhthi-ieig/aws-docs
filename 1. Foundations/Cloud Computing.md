@@ -10,24 +10,24 @@
 
 1. Trade capital expense for variable expense
 
-– Instead of `having to invest heavily in data centers and servers before using` them, you can `pay only for what you consume`
+- You can `pay only when you consume` computing resources, and `pay only for how much you consume` instead of having to invest heavily in data centers and servers before you know how you’re going to use them
 
 2. Benefit from massive economies of scale
 
-- You can `achieve a lower variable cost` than you can get on your own. Because `usage from hundreds of thousands of customers is aggregated` in the cloud, providers such as AWS `can achieve higher economies of scale`, which translates into lower pay as-you-go prices
+- You can `achieve a lower variable cost` because `usage from hundreds of thousands of customers is aggregated` in the cloud,
 
 3. Stop guessing capacity
 
-- When you make a capacity decision prior to deploying an application, you often end up either sitting on expensive idle resources or dealing with limited capacity. With cloud computing, these problems go away. You `can access as much or as little capacity as you need`, and `scale up and down as required with only a few minutes`
+- `Eliminate guessing on your infrastructure capacity needs`. You can `access as much or as little capacity as you need`, and `scale up and down as required` with only a few minutes
 
 4. Increase speed and agility
 
-– In a cloud computing environment, new IT resources are only a click away, which means that you `reduce the time to make those resources available to your developers from weeks to just minutes`. This results in a dramatic increase in agility for the organization, since the cost and time it takes to experiment and develop is significantly lower
+- Able to `launch your resources within a few clicks` which reduces the time to `make those resources available to your developers from weeks to just minutes`
 
 5. Stop spending money running and maintaining data centers
 
-- Focus on projects that differentiate your business, not the infrastructure. Cloud computing `lets you focus on your own customers, rather than on the heavy lifting of racking, stacking, and powering servers`
+- Let you `focus on your own customers`, `rather than on the heavy lifting of racking, stacking, and powering servers`
 
 6. Go global in minutes
 
-- Easily `deploy your application in multiple regions around the world with just a few clicks`. This means you can provide lower latency and a better experience for your customers at minimal cost.
+- Easily `deploy your application in multiple regions around the world with just a few clicks`. This means you can provide lower latency and a better experience for your customers at minimal cost
