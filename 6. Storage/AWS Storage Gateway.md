@@ -4,7 +4,7 @@
 
 - AWS Storage Gateway `cannot be used for data archival`
 
-- All `data transferred between the gateway and AWS storage is encrypted` using SSL
+- All `data transferred between the gateway and AWS storage is encrypted using SSL`
 
 - Recommend for
 

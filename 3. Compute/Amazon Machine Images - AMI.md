@@ -1,9 +1,15 @@
 ## Amazon Machine Images - AMI
 
-- An Amazon Machine Image `provides the template required to launch an EC2 instance`. You must specify an AMI when you launch an EC2 instance
+- Amazon Machine Image is a `template used to launch an EC2 instance`. You can add your own software, OS, configuration, monitoring...and create a new custom AMI
 
-- You can launch `multiple instances from a single AMI` when you `need multiple instances with the same configuration`
+- Amazon Machine Image `are build for a specific Region` and `can be copied across Regions`
 
-- The AMI `must be in the same region as that of the EC2 instance to be launched`
+- To launch an EC2 instance, you must `specify an AMI in the same Region with the EC2 instance`
 
-- If the AMI exists in a different region, you `can copy that AMI to the region where you want to launch the EC2 instance`
+- You can launch `multiple EC2 instances from a single AMI` when you `need multiple instances with the same configuration`
+
+- You can launch an EC2 instance from
+
+  - Public AMI: From AWS
+  - AWS Marketplace: From someone else
+  - Your AMI: You make and manage by yourself
