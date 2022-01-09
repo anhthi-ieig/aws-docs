@@ -1,6 +1,6 @@
 ## AWS Storage Gateway - Hybrid storage integration
 
-- AWS Storage Gateway `is a hybrid cloud storage service` that `connect on-premises to cloud storage`
+- AWS Storage Gateway is `a hybrid cloud storage service` that `connect on-premises to cloud storage`
 
 - AWS Storage Gateway `cannot be used for data archival`
 

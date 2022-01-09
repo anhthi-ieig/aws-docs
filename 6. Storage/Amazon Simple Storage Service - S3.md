@@ -2,24 +2,30 @@
 
 - Amazon S3 is `object storage service` built to `store and retrieve any type and amount of data` from anywhere
 
-- You can `set security at the bucket level or individual object level` using `access control lists (ACLs), bucket policies, or access point policies`
+- Amazon S3 allow to `enable versioning to create multiple versions of your files` in order to protect against accidental deletion and to use a previous version
 
-- You can `enable versioning to create multiple versions of your file` in order to protect against accidental deletion and to use a previous version
+- Amazon S3 `is a regional service`, but `bucket names must be globally unique`
 
-- `S3 Lifecycle allows your data will automatically transfer to a different storage class` without any changes to your application for cost saving
+- Amazon S3 allow to `store files up to 5TB`. If the file is more than 5TB, must use "multi-part upload"
 
-- You can `use S3 access logs to track the access to your buckets and objects`
+- Amazon S3 allow to `set security at the bucket level or individual object level`
 
-- S3 `is a regional service`, but `bucket names must be globally unique`
+  - Access control lists (ACLs)
+  - Bucket policies
+  - Access point policies
 
-- S3 can be used for
+- Amazon S3 can be used for
 
   - Static website
-  - Data archive
-  - Analytics systems
-  - Web & Mobile application
+  - Data lakes and big data analytics
+  - Backup and restore
+  - Disaster recovery
+  - Application and Media hosting
+  - ...
 
-## S3 Storage Classes
+- `Amazon S3 Lifecycle allows you to automatically transfer data to a different storage classes` without any changes to your application `for cost saving`
+
+## Amazon S3 Storage Classes
 
 1. S3 Standard
 
@@ -96,6 +102,40 @@
   - `Data that needs to be kept local`
   - Demanding application performance needs
 
+## Amazon S3 Security
+
+1. User based
+
+- Using IAM Policies: which API calls should be allowed for a specific IAM user
+
+2. Resource based
+
+- Using Bucket Policies
+- Using Object/Bucket Access Control List - ACL
+
+## Amazon S3 Replication
+
+- Must enable bucket versioning in source and destination
+- Support Same Region Replication(SRR) and Cross Region Replication(CRR)
+- Buckets can be in different AWS accounts
+- Replication is asynchronous
+
 ## Amazon S3 Transfer Acceleration
 
 - Amazon S3 Transfer Acceleration `leverages AWS Edge Locations` to `enables fast, easy, and secure transfers of files` over long distances `between your client and your Amazon S3 buckets`
+
+## S3 Object Lock
+
+- S3 Object Lock allow you to `store objects using a write-once-read-many (WORM) model`
+
+- S3 Object Lock can help `prevent objects from being deleted or overwritten for a fixed amount of time or indefinitely`
+
+## S3 Glacier Vault Lock
+
+- S3 Glacier Vault Lock allows you to easily `deploy and enforce compliance controls for individual S3 Glacier vaults` with `a vault lock policy`
+
+- You can specify controls such as “write once read many” (WORM) in a vault lock policy and lock the policy from future edits. `Once locked, the policy can no longer be changed`
+
+## Amazon S3 Access Logs
+
+- All access and changes from any accounts are made in Amazon S3 buckets can be logged to another S3 bucket

@@ -6,20 +6,34 @@
 
 ## AWS Snowcone
 
-- AWS Snowcone is the `smallest member of the AWS Snow Family` of edge computing and data transfer devices
+- AWS Snowcone is the `smallest devices of the AWS Snow Family`
 
-- You can `use Snowcone to collect, process, and move data to AWS`, either `offline by shipping the device`, or `online with AWS DataSync`
+- AWS Snowcone is equipped with `8 TB of usable storage (14 TB for Snowcone SSD)`
 
-- Snowcone is `portable, rugged, and secure`
+- AWS Snowcone is used to `collect, process, and move data to AWS` by
 
-- Snowcon is equipped with 8TBs of HDD storage and 14TBs of SSD storage
+  - `Offline by shipping the device`
+  - `Online with AWS DataSync`
 
 ## AWS Snowball
 
-- AWS Snowball is a data migration and edge computing device that comes in two device options: Compute Optimized and Storage Optimized
+- AWS Snowball is `an edge computing, data migration, and edge storage device` that comes in two options
+
+  - `Storage Optimized - 80TBs of HDD capacity` for block volume and S3 compatible object storage
+  - `Compute Optimized - 42TBs of HDD capacity` for block volume and S3 compatible object storage
+
+- AWS Snowball `allows to transport TBs or PBs of data in an out of AWS`
 
 ## AWS Snowmobile
 
+- AWS Snowmobile is `an actual truck that allow to transfer exabyte-scale data from on-premises to AWS`
+
+- Each Snowmobile is `a secured data truck with up to 100PB storage capacity`
+
+## AWS OpsHub
+
+- AWS OpsHub is `an application` that you can use to `manage your AWS Snowball devices`, enabling you to `rapidly deploy edge computing workloads and simplify data migration to the cloud`
+
 ## DataSync
 
-- DataSync allow for online data transfer from on-premises to AWS services like S3 or EFS
+- DataSync allows for `online data transfer from on-premises to AWS services` like S3 or EFS
