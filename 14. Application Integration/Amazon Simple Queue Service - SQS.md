@@ -8,3 +8,7 @@
 
   - Standard queues: Offer `maximum throughput, best-effort ordering, and at-least-once delivery`
   - SQS FIFO: Guarantee that `messages are processed exactly once, in the exact order`
+
+- Default retention of messages is 4 days, maximum 14 days
+
+- `No limit messages on the queue` and the messages `will be deleted after they're read by consumers`

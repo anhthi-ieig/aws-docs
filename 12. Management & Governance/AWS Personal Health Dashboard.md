@@ -1,5 +1,3 @@
 ## AWS Personal Health Dashboard - Personalized view of AWS service health
 
-- `Provides alerts and remediation guidance` for AWS events that `might affect your environment`
-
-- `Alerts are triggered by changes in the health of your AWS resources`, giving you event visibility, and guidance to `help quickly diagnose and resolve issues`
+- AWS Personal Health Dashboard `provides alerts and guidance for AWS events` `that might affect your environment`

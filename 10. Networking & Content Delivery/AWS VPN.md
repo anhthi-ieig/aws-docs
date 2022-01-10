@@ -4,9 +4,11 @@
 
 - AWS VPN is comprised of two services: AWS Site-to-Site VPN and AWS Client VPN
 
-## AWS Site-to-Site
+## AWS Site-to-Site VPN
 
-- AWS Site-to-Site VPN `creates encrypted tunnels between your network and your Amazon VPCs or AWS Transit Gateways`
+- AWS Site-to-Site VPN allow to `connect your on-premises VPN to AWS`
+
+- The connection is `automatically encrypted` and `goes over public internet`
 
 ## AWS Client VPN
 

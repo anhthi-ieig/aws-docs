@@ -10,26 +10,57 @@
   - Creation of subnets
   - Configuration of Route Tables and Network Gateways
 
-## Network Access Control List (NACL)
+## Subnets
 
-- A Network Access Control List is `an optional layer of security for your VPC` that `acts as a firewall` for `controlling traffic in and out of one or more subnets`
+- Subnets allow you to `partition your network inside your VPC`
 
-- You might set up network ACLs with rules similar to your security groups in order to add an additional layer of security to your VPC
+- A subnet is associate with an AZ
+
+- There are 2 types of subnets
+
+  - Public subnets: is accessible from the internet
+  - Private subnets:
 
 ## Route Table
 
+- A route table `contains a set of rules, called routes,` that are `used to determine where network traffic from your subnet or gateway is directed`
+
 ## Internet Gateway
 
-## VPC Endpoint
+- Internet Gateway `allow your VPC connect to the internet`
+
+## NAT Gateways(AWS managed) / NAT Instances(self-managed)
+
+- NAT Gateways/NAT Instances allow `your instance in your private subnets to access to the internet` while `remaining private`
+
+## Network Access Control List (NACL)
+
+- NACL is `an optional layer of security for your VPC` that `acts as a firewall` for `controlling traffic in and out of one or more subnets`
+
+- NACL can `have Allow or Deny rules` and are `attached at the Subnet level`
+
+## Security Group
+
+- Security Group acts as a firewall to control traffic in an out for EC2 instances
+
+- Security Group can `only have Allow rule`
+
+## VPC Flow Logs
+
+- VPC Flow Logs allows to capture information about IP traffic going to your interfaces
+
+- VPC Flow Logs helps to monitor and troubleshoot connectivity issues
 
 ## VPC Peering
 
-- A VPC peering connection is `a networking connection between two VPCs` that enables you to `route traffic between them privately`
-
-- Instances in either VPC `can communicate with each other` as if they are within the same network
+- VPC Peering allows to connect 2 VPCs, privately using AWS network
 
 - You can create a VPC peering connection between
 
   - Your own VPCs
   - VPCs in different regions (also known as an inter-region VPC peering connection)
   - VPCs in two different AWS accounts
+
+## VPC Endpoint
+
+- VPC Endpoint allow you to `connect to AWS services using a private network` instead a public network. It gives you `enhanced security and low latency to access AWS services`

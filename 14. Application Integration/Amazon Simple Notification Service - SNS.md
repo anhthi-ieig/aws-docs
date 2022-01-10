@@ -1,6 +1,6 @@
 ## Amazon Simple Notification Service (SNS) - Pub/Sub, SMS, email, and mobile push notifications
 
-- Amazon SNS is `a managed service` that `provides message delivery from publishers to subscribers`(Pub/Sub)
+- Amazon SNS is `a managed service` that `provides message delivery from publishers to subscribers(pub/sub)`
 
 - `Publishers communicate asynchronously with subscribers by sending messages to a topic`, which is a logical access point and communication channel
 
@@ -11,5 +11,5 @@
   - AWS Lambda
   - HTTP
   - Email
+  - SMS
   - Mobile push notifications
-  - Mobile text messages (SMS)

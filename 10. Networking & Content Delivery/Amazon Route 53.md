@@ -1,8 +1,8 @@
 ## Amazon Route 53 - 53 Scalable domain name system (DNS)
 
-- Amazon Route 53 is a highly available and scalable cloud Domain Name System (DNS) web service
+- Amazon Route 53 is `a highly available and scalable cloud Domain Name System (DNS) web service`
 
-- It `is designed to route end users to Internet applications` by translating domain names(Ex: www.example.com) into the numeric IP addresses(Ex: 192.0.2.1) that computers use to connect to each other
+- Amazon Route 53 is designed to route end users to Internet applications by `translating domain names(Ex: www.example.com) into the numeric IP addresses(Ex: 192.0.2.1)` that computers use to connect to each other
 
 - Amazon Route 53 allows to
 
@@ -34,8 +34,8 @@
 
 6. Multivalue answer routing policy
 
-- Use when you want Route 53 to respond to DNS queries with up to eight healthy records selected at random
+- Use when you want Route 53 to `respond to DNS queries with up to eight healthy records selected at random`
 
 7. Weighted routing policy
 
-- Use to route traffic to multiple resources in proportions that you specify
+- Use to `route traffic to multiple resources in proportions that you specify`
