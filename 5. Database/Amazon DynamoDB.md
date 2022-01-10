@@ -2,6 +2,8 @@
 
 - Amazon DynamoDB is `a fully managed, serverless, NoSQL key-value database` designed to run high-performance applications at any scale
 
+- Amazon DynamoDB `can handle trillion of rows`, `million of requests per second with single-digit millisecond latency`
+
 - DynamoDB offers
 
   - Built-in security
@@ -10,12 +12,8 @@
   - In-memory caching
   - Data export tools
 
-- DynamoDB global tables `replicate data automatically across your choice of AWS Regions` and `automatically scale capacity to accommodate your workloads`
+## DynamoDB global tables
 
-- `With global tables`, your globally distributed applications `can access data locally in the selected regions` to get `single-digit millisecond read and write performance`
+- DynamoDB global tables `replicate data automatically across your choice of AWS Regions` and `automatically scale capacity to accommodate your workloads`. Therefore, your DynamoDB `can access data locally in the selected Regions` with `low latency in multi Regions`
 
-- DynamoDB `offers active-active cross-region support` that is needed for the company
-
-## Amazon DynamoDB Accelerator - DAX
-
-- Amazon DynamoDB Accelerator is `a in-memory cache for Amazon DynamoDB` that delivers up to a 10 times performance improvement
+- DynamoDB `offers active-active replication(read/write to any Region)`
