@@ -1,6 +1,6 @@
 ## AWS OpsWorks - Automate operations with Chef and Puppet
 
-- AWS OpsWorks is `a configuration management service` that lets you `use Chef and Puppet` to `automate how servers are configured, deployed, and managed` across your Amazon EC2 instances or On-Premises compute environments
+- AWS OpsWorks is `a configuration management service` that lets you `use Chef and Puppet` to `automate how servers are configured, deployed, and managed or repetitive actions` across your Amazon EC2 instances or On-Premises compute environments
 
 - OpsWorks has three offerings
 

@@ -6,4 +6,14 @@
 
 - AWS lambda has a `maximum execution time of 15 minutes`
 
-- You will `be charged base on the duration and number of request` but the `free usage tier includes 1 million requests each month`
+- You will `be charged base on the duration and number of requests` but the `free usage tier includes 1 million requests each month`
+
+- AWS Lambda natively supports
+
+  - Java
+  - C#
+  - Node.js
+  - Python
+  - Ruby
+  - Go
+  - PowerShell

@@ -2,10 +2,19 @@
 
 - AWS CodePipeline is `a continuous delivery(CD) service` that enables you `to model, visualize, and automate the steps required to release` your software
 
-- AWS CodePipeline `take care of builds, tests, and deploys your application` `according to the defined workflow every time there is a code change`
+- CodePipeline `automates the build, test, and deploy phases` of your release process `every time there is a code change, based on the release model you define`
 
-## Note
+- CodePipeline cannot deploy the code by itself. Instead, it can integrate with CodeDeploy for the actual deployment
 
-- CodePipeline cannot by itself deploy the code, it can integrate with CodeDeploy for the actual deployment
+- AWS CodePipeline integrates with AWS services such as
 
-- AWS CodePipeline can integrate with third-party services such as GitHub
+  - AWS CodeCommit
+  - AWS CodeBuild
+  - AWS CodeDeploy
+  - AWS Elastic Beanstalk
+  - AWS CloudFormation
+  - AWS OpsWorks
+  - Amazon ECS
+  - AWS Lambda
+  - Amazon S3
+  - 3rd-party like Github
