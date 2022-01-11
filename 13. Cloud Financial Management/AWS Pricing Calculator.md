@@ -1,3 +1,3 @@
 ## AWS Pricing Calculator
 
-- `Configure a cost estimate` that `fits your unique business or personal needs` with AWS products and services
+- AWS Pricing Calculator is `a web based service` that allows you to `explore AWS services based on your use cases and create a cost estimate`

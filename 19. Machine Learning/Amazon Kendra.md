@@ -1,0 +1,3 @@
+## Amazon Kendra - Reinvent enterprise search with ML
+
+- Amazon Kendra is an intelligent search service using ML to discover content, extract answers from within a document such as PDF, HTML, PowerPoint...

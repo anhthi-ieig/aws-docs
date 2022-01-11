@@ -1,6 +1,6 @@
 ## Amazon Rekognition - Analyze image and video
 
-- Amazon Rekognition is a service that makes it `easy to add powerful visual analysis` to your applications
+- Amazon Rekognition is a service that makes it easy to `add powerful visual analysis` to your applications `using Machine Learning`
 
 ## Rekognition Image
 
