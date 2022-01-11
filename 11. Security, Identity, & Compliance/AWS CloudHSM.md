@@ -9,4 +9,4 @@
   - High-availability
   - Backups
 
-- AWS CloudHSM also enables you to `scale quickly by adding and removing HSM capacity on-demand`, with no up-front costs
+- `AWS provisions the encryption hardware`, `you manage your encryption keys entirely`

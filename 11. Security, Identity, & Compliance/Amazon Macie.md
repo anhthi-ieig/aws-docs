@@ -9,5 +9,3 @@
   - A list of unencrypted buckets
   - Publicly accessible buckets
   - Buckets shared with AWS accounts outside in AWS Organizations
-
-- Macie `provides multi-account support using AWS Organizations`, so you can enable Macie across all of your accounts with a few clicks
