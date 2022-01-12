@@ -1,3 +1,3 @@
-## Amazon Sumerian
+## Amazon Sumerian - Build and run AR and VR applications
 
-- Lets you create and run `virtual reality (VR), augmented reality (AR), and 3D applications` quickly and easily without requiring any specialized programming or 3D graphics expertise
+- Amazon Sumerian is `a managed service` that lets you `create and run 3D, Augmented Reality (AR) and Virtual Reality (VR) applications`

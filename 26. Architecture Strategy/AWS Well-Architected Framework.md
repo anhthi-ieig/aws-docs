@@ -4,58 +4,93 @@
 
 - By answering a few foundational questions, `learn how well your architecture aligns with cloud best practices` and `gain guidance for making improvements`
 
+## General Design Principles
+
+1. Stop guessing your capacity needs
+
+2. Test systems at production scale
+
+3. Automate to make architectural experimentation easier
+
+4. Allow for evolutionary architectures
+
+5. Drive architectures using data
+
+6. Improve through game days
+
 ## Six Pillars
 
 1. Operational Excellence
 
-- Focuses on `running and monitoring systems`, and `continually improving processes and procedures`
+- The ability to `support development and run workloads effectively`, `gain insight into their operations`, and to `continuously improve supporting processes and procedures` to deliver business value
 
-- Key topics include
-  - Automating changes
-  - Responding to events
-  - Defining standards to manage daily operations
+- There are five design principles
+
+  - Perform operations as code
+  - Make frequent, small, reversible changes
+  - Refine operations procedures frequently
+  - Anticipate failure
+  - Learn from all operational failures
 
 2. Security
 
-- Focuses on `protecting information and systems`
+- The ability to `protect data, systems, and assets to take advantage of cloud technologies to improve your security`
 
-- Key topics include
-  - Confidentiality and integrity of data
-  - Managing user permissions
-  - Establishing controls to detect security events
+- There are seven design principles
+
+  - Implement a strong identity foundation
+  - Enable traceability
+  - Apply security at all layers
+  - Automate security best practices
+  - Protect data in transit and at rest
+  - Keep people away from data
+  - Prepare for security events
 
 3. Reliability
 
-- Focuses on `workloads performing their intended functions` and `how to recover quickly from failure` to meet demands
+- The ability of a workload to `perform its intended function correctly and consistently` when it’s expected to and `operate and test the workload through its total lifecycle`
 
-- Key topics include
-  - Distributed system design
-  - Recovery planning
-  - Adapting to changing requirements
+- There are five design principles
+
+  - Automatically recover from failure
+  - Test recovery procedures
+  - Scale horizontally to increase aggregate workload availability
+  - Stop guessing capacity
+  - Manage change in automation
 
 4. Performance Efficiency
 
-- Focuses on `structured and streamlined allocation of IT and computing resources`
+- `The ability to use computing resources efficiently to meet system requirements, and to maintain that efficiency` as demand changes and technologies evolve
 
-- Key topics include
-  - Selecting resource types and sizes optimized for workload requirements
-  - Monitoring performance
-  - Maintaining efficiency as business needs evolve
+- There are five design principles
+
+  - Democratize advanced technologies
+  - Go global in minutes
+  - Use serverless architectures
+  - Experiment more often
+  - Consider mechanical sympathy
 
 5. Cost Optimization
 
-- Focuses on `avoiding unnecessary costs`
+- The ability to `run systems to deliver business value at the lowest price point`
 
-- Key topics include
-  - Understanding spending over time and controlling fund allocation
-  - Selecting resources of the right type and quantity
-  - Scaling to meet business needs without overspending
+- There are five design principles
+
+  - Implement Cloud Financial Management
+  - Adopt a consumption model
+  - Measure overall efficiency
+  - Stop spending money on undifferentiated heavy lifting
+  - Analyze and attribute expenditure
 
 6. Sustainability
 
-- Focuses on `minimizing the environmental impacts of running cloud workloads`
+- `Focuses on environmental impacts, especially energy consumption and efficiency`, since they are important levers for architects to inform direct action to reduce resource usage
 
-- Key topics include
-  - A shared responsibility model for sustainability
-  - Understanding impact
-  - Maximizing utilization to minimize required resources and reduce downstream impacts
+- There are six design principles
+
+  - Understand your impact
+  - Establish sustainability goals
+  - Maximize utilization
+  - Anticipate and adopt new, more efficient hardware and software offerings
+  - Use managed services
+  - Reduce the downstream impact of your cloud workloads
