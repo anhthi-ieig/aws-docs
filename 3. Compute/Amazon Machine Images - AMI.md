@@ -1,6 +1,6 @@
 ## Amazon Machine Images - AMI
 
-- Amazon Machine Image is a `template used to launch an EC2 instance`. You can add your own software, OS, configuration, monitoring...and create a new custom AMI
+- Amazon Machine Image is a `template used to launch an EC2 instance`. You can add your own software, OS, configuration, monitoring...to create a new custom AMI
 
 - Amazon Machine Image `are build for a specific Region` and `can be copied across Regions`
 

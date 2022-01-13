@@ -1,1 +1,0 @@
-## Amazon Kinesis Video Streams

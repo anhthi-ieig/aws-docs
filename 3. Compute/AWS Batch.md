@@ -4,4 +4,4 @@
 
 - AWS Batch `dynamically provisions the optimal quantity and type of compute resources` `based on the volume and specific resource requirements of the batch jobs` submitted
 
-- Batch jobs are defined as Docker images and run on ECS
+- Batch jobs `are defined as Docker images and run on ECS`
