@@ -1,7 +1,7 @@
 ## AWS Pricing
 
-- There are 3 fundamental drivers of cost
+- There are three fundamental drivers of cost with AWS
 
-  - Hourly: From launch to termination
-  - Storage: Data stored in cloud
+  - Compute: From launch to termination
+  - Storage: Data is stored in cloud
   - Outbound data transfer: Data in flight moving between systems

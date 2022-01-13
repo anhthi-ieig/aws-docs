@@ -1,19 +1,33 @@
-# Cloud Computing Models
+## Infrastructure as a Service - IaaS
 
-1. Infrastructure as a Service - IaaS
+- Infrastructure as a Service `consists primarily of the basic cloud building blocks` that `provide access to computers (virtual or on dedicated hardware), networking, security, data storage`, such as
 
-- The `basic building blocks for cloud IT`. `Provides access to computers, networking, and data storages` for businesses
-- Used by Administrators
-- Ex: Amazon Web Services (AWS), Microsoft Azure, Google Compute Engine (GCE)...
+  - Amazon Web Services (AWS)
+  - Microsoft Azure
+  - Google Compute Engine (GCE)
+  - ...
 
-2. Platform as a Service - PaaS
+- Usually used by Administrators
 
-- `Removes the need for your organization to manage the underlying infrastructure`. You just need to `focus on deployment and management of your application`
-- Used by Developers
-- Ex: AWS Elastic Beanstalk, Windows Azure, Heroku...
+## Platform as a Service - PaaS
 
-3. Software as a Service - SaaS
+- Platform as a Service `provides the user with a platform equipped with top-of-the-range hardware and software tools` `hosted by the service provider`, such as
 
-- `A completed service` that `run and managed by the service provider`
-- Used by Customers
-- Ex: Gmail, Dropbox...
+  - AWS Elastic Beanstalk
+  - Windows Azure
+  - Heroku
+  - ...
+
+- You just need to `focus on deployment and management of your application`
+
+- Usually used by Developers
+
+## Software as a Service - SaaS
+
+- Software as a Service `provides a completed service` that `run and managed by the service provider` `without worrying about configuration and management`, such as
+
+  - Gmail
+  - Dropbox
+  - ...
+
+- Usually used by Customers

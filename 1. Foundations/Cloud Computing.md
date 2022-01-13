@@ -8,26 +8,26 @@
 
 ## 6 Advantages of Cloud Computing
 
-1. Trade capital expense for variable expense
+1. Trade Capital Expense For Variable Expense
 
 - You can `pay only when you consume` computing resources, and `pay only for how much you consume` instead of having to invest heavily in data centers and servers before you know how you’re going to use them
 
-2. Benefit from massive economies of scale
+2. Benefit From Massive Economies Of Scale
 
 - You can `achieve a lower variable cost` because `usage from hundreds of thousands of customers is aggregated` in the cloud,
 
-3. Stop guessing capacity
+3. Stop Guessing Capacity
 
 - `Eliminate guessing on your infrastructure capacity needs`. You can `access as much or as little capacity as you need`, and `scale up and down as required` with only a few minutes
 
-4. Increase speed and agility
+4. Increase Speed And Agility
 
 - Able to `launch your resources within a few clicks` which reduces the time to `make those resources available to your developers from weeks to just minutes`
 
-5. Stop spending money running and maintaining data centers
+5. Stop Spending Money Running And Maintaining Data Centers
 
 - Let you `focus on your own customers`, `rather than on the heavy lifting of racking, stacking, and powering servers`
 
-6. Go global in minutes
+6. Go Global In Minutes
 
 - Easily `deploy your application in multiple regions around the world with just a few clicks`. This means you can provide lower latency and a better experience for your customers at minimal cost
