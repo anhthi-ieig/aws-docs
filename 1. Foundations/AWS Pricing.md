@@ -1,4 +1,4 @@
-## Pricing
+## AWS Pricing
 
 - There are 3 fundamental drivers of cost
 

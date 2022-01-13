@@ -8,6 +8,6 @@
 
 - Inbound rules control the incoming traffic to your instance, and outbound rules control the outgoing traffic from your instance
 
-## Note
+## Notes
 
-- `1 minute minimum charge` for EC2 instances
+- EC2 instances `charges on 1 minute at least`
