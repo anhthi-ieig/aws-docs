@@ -24,6 +24,10 @@
 
 - AWS Snowball `allows to transport TBs or PBs of data in an out of AWS`
 
+- AWS Snowball Edge is `a type of Snowball device with on-board storage and compute power` for select AWS capabilities
+
+- Snowball Edge `can do local processing and edge-computing workloads` in addition to transferring data between your local environment and the AWS Cloud
+
 ## AWS Snowmobile
 
 - AWS Snowmobile is `an actual truck that allow to transfer exabyte-scale data from on-premises to AWS`
