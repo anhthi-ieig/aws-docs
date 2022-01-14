@@ -16,19 +16,19 @@
   - Partial Upfront
   - No Upfront
 
-- You can purchase a Reserved Instance `for a one-year or three-year commitment`. `Pay regardless of usage`
+- You can purchase a Reserved Instance `for a 1 year or 3 years commitment`. `Pay regardless of usage`
 
 - `Reserved instances cannot be interrupted`
 
 ## Scheduled Instance
 
-- With Scheduled Reserved Instances, you can `reserve capacity that is scheduled to recur daily, weekly, or monthly, with a specified start time and duration, for a one-year term`
+- Scheduled Instance provides `reserve capacity that is scheduled to recur daily, weekly, or monthly, with a specified start time and duration, for a 1 year term`
 
 - After you complete your purchase, the instances are `available to launch during the time windows that you specified`
 
 ## Spot Instance
 
-- Spot Instances let you `take advantage of unused EC2 capacity` in the AWS cloud
+- Spot Instances lets you `take advantage of unused EC2 capacity` in the AWS cloud
 
 - Spot Instances are available at `up to a 90% discount compared to On-Demand prices`
 
@@ -36,7 +36,7 @@
 
 ## Dedicated Hosts
 
-- Dedicated Host `is a physical server` fully dedicated for running your instances
+- Dedicated Host is `a physical server` fully dedicated for running your instances
 
 - Dedicated Hosts can help you `reduce costs by allowing you to use your existing server-bound software licenses`
 

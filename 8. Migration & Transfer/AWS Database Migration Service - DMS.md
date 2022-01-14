@@ -1,4 +1,4 @@
-## AWS DMS - AWS Database Migration Service
+## AWS Database Migration Service (DMS) - Migrate databases with minimal downtime
 
 - AWS Database Migration Service helps you `migrate databases to or within AWS` quickly and securely
 

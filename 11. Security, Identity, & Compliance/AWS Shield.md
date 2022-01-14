@@ -6,14 +6,18 @@
 
 1. AWS Shield Standard
 
-- AWS Shield Standard `provides protection for all AWS customers` against common and most frequently occurring infrastructure (layer 3 and 4) attacks like SYN/UDP floods, reflection attacks, and others to support high availability of your applications on AWS
+- For `protection against most common DDoS attacks`, and `access to tools and best practices to build a DDoS resilient architecture`
+
+- Automatically available on all AWS services
 
 2. AWS Shield Advanced
 
-- AWS Shield Advanced `provides enhanced protections` for your applications against more sophisticated and larger attacks
+- For `additional protection against larger` and `more sophisticated attacks, visibility into attacks`, and `24x7 access to DDoS experts for complex cases`
 
-  - Amazon EC2
-  - Elastic Load Balancing (ELB)
+- Available on
+
+  - Amazon Route 53
   - Amazon CloudFront
+  - Elastic Load Balancing
   - AWS Global Accelerator
-  - Route 53
+  - Elastic IP (Amazon Elastic Compute Cloud and Network Load Balancer)
