@@ -1,6 +1,4 @@
-## AWS Support Plans
-
-1. Basic
+## Basic
 
 - Basic Support is free for all AWS accounts, includes
 
@@ -8,7 +6,7 @@
   - AWS Trusted Advisor: access to 7 core checks
   - AWS Personal Health Dashboard
 
-2. Developer
+## Developer
 
 - Developer Support start with 29$/month and is `recommended for development and testing`, includes
 
@@ -17,7 +15,7 @@
   - Unlimited cases / 1 primary contact
   - Access to Infrastructure Event Management for additional fee
 
-3. Business
+## Business
 
 - Business Support start with 100$/month and is `recommended for production workloads`, includes
 
@@ -29,7 +27,7 @@
   - Production system impaired: < 4 hours
   - Production system down: < 1 hour
 
-4. Enterprise
+## Enterprise
 
 - Business Support start with 15000$/month and is `recommended for business or mission-critical production workloads`, includes
 
@@ -37,11 +35,3 @@
   - Access to Technical Account Manager (TAM)
   - Concierge Support Team(for billing and account best practices)
   - Access to online self-paced labs
-
-## Support Cast Types
-
-1. Account and Billing
-
-2. Service Limit Increases
-
-3. Technical Supports

@@ -1,26 +1,4 @@
-## AWS Well-Architected Framework
-
-- The AWS Well-Architected Framework `describes key concepts, design principles, and architectural best practices` for `designing and running workloads in the cloud`
-
-- By answering a few foundational questions, `learn how well your architecture aligns with cloud best practices` and `gain guidance for making improvements`
-
-## General Design Principles
-
-1. Stop guessing your capacity needs
-
-2. Test systems at production scale
-
-3. Automate to make architectural experimentation easier
-
-4. Allow for evolutionary architectures
-
-5. Drive architectures using data
-
-6. Improve through game days
-
-## Six Pillars
-
-1. Operational Excellence
+## Operational Excellence
 
 - The ability to `support development and run workloads effectively`, `gain insight into their operations`, and to `continuously improve supporting processes and procedures` to deliver business value
 
@@ -32,7 +10,7 @@
   - Anticipate failure
   - Learn from all operational failures
 
-2. Security
+## Security
 
 - The ability to `protect data, systems, and assets to take advantage of cloud technologies to improve your security`
 
@@ -46,7 +24,7 @@
   - Keep people away from data
   - Prepare for security events
 
-3. Reliability
+## Reliability
 
 - The ability of a workload to `perform its intended function correctly and consistently` when it’s expected to and `operate and test the workload through its total lifecycle`
 
@@ -58,7 +36,7 @@
   - Stop guessing capacity
   - Manage change in automation
 
-4. Performance Efficiency
+## Performance Efficiency
 
 - `The ability to use computing resources efficiently to meet system requirements, and to maintain that efficiency` as demand changes and technologies evolve
 
@@ -70,7 +48,7 @@
   - Experiment more often
   - Consider mechanical sympathy
 
-5. Cost Optimization
+## Cost Optimization
 
 - The ability to `run systems to deliver business value at the lowest price point`
 
@@ -82,7 +60,7 @@
   - Stop spending money on undifferentiated heavy lifting
   - Analyze and attribute expenditure
 
-6. Sustainability
+## Sustainability
 
 - `Focuses on environmental impacts, especially energy consumption and efficiency`, since they are important levers for architects to inform direct action to reduce resource usage
 
